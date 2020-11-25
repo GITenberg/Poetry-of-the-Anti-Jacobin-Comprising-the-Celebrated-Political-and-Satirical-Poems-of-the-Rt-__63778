@@ -59,6 +59,9 @@ contributor:
     gutenberg_agent_id: '52594'
     url: http://www.gutenberg.org/2009/agents/52594
     wikipedia: https://en.wikipedia.org/wiki/Richard_Wellesley,_1st_Marquess_Wellesley
+covers:
+- cover_type: archival
+  image_path: 63778-h/images/cover.jpg
 creator:
   editor:
     agent_name: Edmonds, Charles
@@ -67,6 +70,8 @@ creator:
     gutenberg_agent_id: '52595'
     url: http://www.gutenberg.org/2009/agents/52595
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63778#Poetry-of-the-Anti-Jacobin-Comprising-the-Celebrated-Political-and-Satirical-Poems-of-the-Rt-_
 gutenberg_issued: '2020-11-15'
 gutenberg_type: Text
 identifiers:
