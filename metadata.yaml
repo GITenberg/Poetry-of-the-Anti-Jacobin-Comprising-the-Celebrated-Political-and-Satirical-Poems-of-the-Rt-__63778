@@ -1,0 +1,88 @@
+_repo: Poetry-of-the-Anti-Jacobin-Comprising-the-Celebrated-Political-and-Satirical-Poems-of-the-Rt-__63778
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Frere, John Hookham
+    aliases:
+    - Frere, J. Hookham (John Hookham)
+    - Whistlecraft, Robert
+    - Whistlecraft, William
+    birthdate: 1769
+    deathdate: 1846
+    gutenberg_agent_id: '52592'
+    url: http://www.gutenberg.org/2009/agents/52592
+    wikipedia: https://en.wikipedia.org/wiki/John_Hookham_Frere
+  - agent_name: Carlisle, Frederick Howard, Earl of
+    aliases:
+    - Carlisle, Frederick Howard, 5th earl
+    - Howard, Frederick, Earl of Carlisle
+    birthdate: 1748
+    deathdate: 1825
+    gutenberg_agent_id: '52590'
+    url: http://www.gutenberg.org/2009/agents/52590
+    wikipedia: https://en.wikipedia.org/wiki/Frederick_Howard,_5th_Earl_of_Carlisle
+  - agent_name: Gifford, William
+    alias: Gifford, W. (William)
+    birthdate: 1756
+    deathdate: 1826
+    gutenberg_agent_id: '46025'
+    url: http://www.gutenberg.org/2009/agents/46025
+  - agent_name: Pitt, William
+    aliases:
+    - Pitt, William, the Younger
+    - Chatham, Earl of
+    birthdate: 1759
+    deathdate: 1806
+    gutenberg_agent_id: '52593'
+    url: http://www.gutenberg.org/2009/agents/52593
+    wikipedia: https://en.wikipedia.org/wiki/William_Pitt_the_Younger
+  - agent_name: Canning, George
+    alias: Griffin, Gregory
+    birthdate: 1770
+    deathdate: 1827
+    gutenberg_agent_id: '25085'
+    url: http://www.gutenberg.org/2009/agents/25085
+    wikipedia: http://en.wikipedia.org/wiki/George_Canning
+  - agent_name: Ellis, George
+    alias: Ellis, G. (George)
+    birthdate: 1753
+    deathdate: 1815
+    gutenberg_agent_id: '40185'
+    url: http://www.gutenberg.org/2009/agents/40185
+    wikipedia: https://en.wikipedia.org/wiki/George_Ellis_%28poet%29
+  - agent_name: Wellesley, Richard Wellesley, Marquess
+    aliases:
+    - Wellesley, Richard Colley Wellesley, Marquis
+    - Mornington, Richard Colley Wellesley, Earl of
+    birthdate: 1760
+    deathdate: 1842
+    gutenberg_agent_id: '52594'
+    url: http://www.gutenberg.org/2009/agents/52594
+    wikipedia: https://en.wikipedia.org/wiki/Richard_Wellesley,_1st_Marquess_Wellesley
+creator:
+  editor:
+    agent_name: Edmonds, Charles
+    birthdate: 1770
+    deathdate: 1827
+    gutenberg_agent_id: '52595'
+    url: http://www.gutenberg.org/2009/agents/52595
+description: ''
+gutenberg_issued: '2020-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63778'
+  lccn: '16003997'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry'
+- !lcsh 'France -- History -- Revolution, 1789-1799 -- Poetry'
+- !lcc 'PR'
+- !lcsh 'Great Britain -- Politics and government -- 1789-1820'
+- GITenberg
+title: "Poetry of the Anti-Jacobin\r\nComprising the Celebrated Political and Satirical\
+  \ Poems, of the Rt. Hons. G. Canning, John Hookham Frere, W. Pitt, the Marquis Wellesley,\
+  \ G. Ellis, W. Gifford, the Earl of Carlisle, and Others."
+url: http://www.gutenberg.org/ebooks/63778
